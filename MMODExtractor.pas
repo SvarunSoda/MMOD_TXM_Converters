@@ -261,6 +261,7 @@ begin
    OtherMSHDs[8]:='cockpitwin.mshd';
    OtherMSHDs[9]:='foliage.mshd';
    OtherMSHDs[10]:='default.mshd';
+   OtherMSHDs[11]:='planealpha.mshd';
    
    if IndicesType=102 then begin
     
